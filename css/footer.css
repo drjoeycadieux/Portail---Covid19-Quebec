@@ -1,0 +1,9 @@
+.footer {
+ text-align: center;
+ background-color: rgb(14, 38, 65);
+ padding: 25px;
+}
+.footer, p {
+  color: white;
+  font-family: sans-serif;
+}
