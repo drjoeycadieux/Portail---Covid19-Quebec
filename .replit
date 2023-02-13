@@ -56,3 +56,7 @@ pattern = "**/{*.less,*.scss,*.css}"
 
 [languages.css.languageServer]
 start = "vscode-css-language-server --stdio"
+
+[auth]
+pageEnabled = true
+buttonEnabled = false
