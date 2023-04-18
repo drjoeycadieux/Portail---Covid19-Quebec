@@ -60,3 +60,6 @@ start = "vscode-css-language-server --stdio"
 [auth]
 pageEnabled = true
 buttonEnabled = false
+
+[gitHubImport]
+requiredFiles = [".replit", "replit.nix", ".config"]
